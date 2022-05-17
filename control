@@ -1,6 +1,6 @@
 Package: com.level3tjg.ytminiplayerenabler
 Name: YTMiniplayerEnabler
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Enable the miniplayer for all YouTube videos
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.ytminiplayerenabler
