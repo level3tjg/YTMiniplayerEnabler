@@ -1,5 +1,3 @@
-#import "fishhook/fishhook.h"
-
 %hook YTIMiniplayerRenderer
 %new
 - (BOOL)hasMinimizedEndpoint {
